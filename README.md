@@ -1,2 +1,1 @@
-# CTF
-Final project for ISM6328 Information Security and IT Risk Management at USF
+This was an individual project for ISM6328 Information Security and IT Risk Management at USF. The project began with a remote exploit and continued with a local exploit. Oracle VM VirtualBox was used to host a Kali (Debian) Linux VM as the attacking device and two Ubuntu Linux VMs as the target devices. The primary tools were Linux commands and a web browser informed by Exploit Database.
